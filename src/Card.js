@@ -2,7 +2,7 @@ import React from "react"
 
 const Card = ({title="", cardText="", buttonText=""}) => {
     return(
-        <div className="card" style={{width: "18rem"}}>
+        <div className="card" style={{width: "10rem"}}>
               <img
                 src="https://images.pexels.com/photos/3532557/pexels-photo-3532557.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
                 class="card-img-top"
